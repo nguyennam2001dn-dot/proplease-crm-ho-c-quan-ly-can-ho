@@ -1,0 +1,6 @@
+{
+  "name": "PROPLEASE CRM - Quản Lý Căn Hộ & Khách Thuê",
+  "description": "Hệ thống CRM quản lý căn hộ dịch vụ, data khách thuê tiềm năng, lịch vận hành và thu phí điện nước cho 2 cơ sở Trương Văn Hiến & Đỗ Bá.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
